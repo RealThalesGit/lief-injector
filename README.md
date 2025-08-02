@@ -1,3 +1,5 @@
-# Simple chatgpt tool that loads a binary that pretends to be a library inside smali
+# Natesworks simple lief injector!
 
-Thank You Natesworks for giving me this idea!
+1. Use on a linux distro
+2. Termux aint working
+3. Android better.
